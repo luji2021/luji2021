@@ -9,8 +9,8 @@ My second passion is driving for measurable results from the documentation. I wa
 🌱 I’m currently learning more about GitHub!<br/>
 💬 Ask me about the pros and cons of the top prototyping tools.<br/>
 📫 How to reach me:<br/>
-[Portfolio](https://www.safigrafi.com)<br/>
-[LinkedIn](https://www.linkedin.com/in/lisaujifusa)<br/>
+Portfolio: www.safigrafi.com<br/>
+LinkedIn: www.linkedin.com/in/lisaujifusa<br/>
 Email: lisaujifusa@gmail.com<br/>
 😄 Pronouns: she/her<br/>
 ⚡ Fun fact: I once slept in a boxing ring.
